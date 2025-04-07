@@ -1,0 +1,6 @@
+[+] T2L: 
+6kpw: +rename rc_risko
+[+] T2L: 
+6kpw: +close
+[+] T2L: ❌ Cette commande doit être utilisée dans un ticket.
+6kpw: +close
